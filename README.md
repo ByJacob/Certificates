@@ -3,11 +3,11 @@
 - ![AWS][aws logo] [NEW] Ultimate AWS Certified Cloud Practitioner - 2021 _(Udemy 2021)_ - [Cert Local](2021/[NEW]_Ultimate_AWS_Certified_Cloud_Practitioner_-_2021.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-dfa3c18f-fd19-4beb-a5ac-04ccf32fe778/)
 - ![Ansible][ansible logo] Ansible Advanced - Hands-On - DevOps _(Udemy 2020)_ - [Cert Local](2020/Ansible_Advanced_-_Hands-On_-_DevOps.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-75dc7408-e6a6-4c39-b5e7-a81dfa2448a4/)
 - ![Ansible][ansible logo] Ansible for the Absolute Beginner - Hands-On - DevOps _(Udemy 2020)_ - [Cert Local](2020/Ansible_for_the_Absolute_Beginner_-_Hands-On_-_DevOps.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-T94AGNVC/)
-- ![AWS][aws logo] AWS DISCOVERY DAY - Securing Your AWS Cloud _([Asseco Academy](https://academy.asseco.pl/))_ [Cert Local](2022/AWS_DISCOVERY_DAY_-_Securing_Your_AWS_Clouds.pdf)
-- ![AWS][aws logo] AWS DISCOVERY DAY - Strategies and Tools to Perform Large-Scale Migrations _([Asseco Academy](https://academy.asseco.pl/))_ [Cert Local](2022/AWS_DISCOVERY_DAY_-_Strategies_and_Tools_to_Perform_Large-Scale_Migrations.pdf)
+- ![AWS][aws logo] AWS DISCOVERY DAY - Securing Your AWS Cloud _([Asseco Academy](https://academy.asseco.pl/) 2022)_ [Cert Local](2022/AWS_DISCOVERY_DAY_-_Securing_Your_AWS_Clouds.pdf)
+- ![AWS][aws logo] AWS DISCOVERY DAY - Strategies and Tools to Perform Large-Scale Migrations _([Asseco Academy](https://academy.asseco.pl/) 2022)_ [Cert Local](2022/AWS_DISCOVERY_DAY_-_Strategies_and_Tools_to_Perform_Large-Scale_Migrations.pdf)
 - ![AWS][aws logo] AWS - Bezpieczeństwo _([awsmasters.pl](https://www.awsmasters.pl/) 2022)_
 - ![AWS][aws logo] AWS - Konteneryzacja _([awsmasters.pl](https://www.awsmasters.pl/) 2022)_
-- ![AWS][aws logo] AWS Certified Cloud Practitioner _([aws.training](https://www.aws.training/Certification) 2022)_ - [Cert Local](2022/AWS_Certified_Cloud_Practitioner_certificate.pdf) - [Cert Remote](https://www.credly.com/badges/f9d24e7b-fb83-44c6-87fe-5ea109f0e7e3/public_url)
+- ![AWS][aws logo] AWS Certified Cloud Practitioner _([Amazon Web Services Training and Certification](https://www.credly.com/organizations/amazon-web-services/badges) 2022)_ - [Cert Local](2022/AWS_Certified_Cloud_Practitioner_certificate.pdf) - [Cert Remote](https://www.credly.com/badges/f9d24e7b-fb83-44c6-87fe-5ea109f0e7e3/public_url)
 - ![AWS][aws logo] AWS Cloud Practitioner Essentials _(AWS Skill Builder 2022)_ - [Cert Local](2022/AWS_Cloud_Practitioner_Essentials.pdf)
 - ![AWS][aws logo] AWS Cloud Practitioner Essentials Day (Polish) _(AWS Training and Certification 2022)_ - [Cert Local](2022/AWS_Cloud_Practitioner_Essentials_Day_(Polish).pdf)
 - ![AWS][aws logo] AWS dla Każdego _([awsmasters.pl](https://www.awsmasters.pl/) 2021)_

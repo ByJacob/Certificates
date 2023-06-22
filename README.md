@@ -15,6 +15,7 @@
 - ![Security][security logo] Dlaczego hackowanie aplikacji webowych jest proste? _(Securitum 2022)_ - [Cert Local](2022/Dlaczego_hackowanie_aplikacji_webowych_jest_proste.pdf)
 - ![GitLab][gitlab logo] GitLab CI: Pipelines, CI/CD and DevOps for Beginners _(Udemy 2020)_ - [Cert Local](2020/GitLab_CI_Pipelines_CI_CD_and_DevOps_for_Beginners.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-5UZTFOLH/)
 - ![GCP][gcp logo] Google Cloud Fundamentals: Core Infrastructure _(Coursera 2020)_ - [Cert Local](2020/Google_Cloud_Fundamentals_Core_Infrastructure.pdf) - [Cert Remote](https://coursera.org/share/2b4de8ad7ffee62f6c4f8c7ca50d62cd)
+- ![Security][security logo] Hackowanie vs Sztuczna Inteligencja _(Sekurak Academy 2023)_ - [Cert Local](2023/Hackowanie_vs_Sztuczna_Inteligencja.pdf)
 - ![Security][security logo] Jak ransomware dostaje się do firm (oraz jak temu zapobiec) _(Securitum 2022)_ - [Cert Local](2022/Jak_ransomware_dostaje_się_do_firm_oraz_jak_temu_zapobiec.pdf)
 - ![Kotlin][kotlin logo] Kurs - Kotlin od postaw - Programowanie na Androida _(Udemy 2019)_ - [Cert Local](2019/Kurs_-_Kotlin_od_postaw_-_Programowanie_na_Androida.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-AWOXTG6S/)
 - ![Security][security logo] Nie daj się cyberzbójom! _(Securitum 2022)_ - [Cert Local](2022/Nie_daj_sie_cyberzbojom_2022.pdf)

@@ -21,6 +21,7 @@
 - ![Security][security logo] Nie daj się cyberzbójom! _(Securitum 2022)_ - [Cert Local](2022/Nie_daj_sie_cyberzbojom_2022.pdf)
 - ![Security][security logo] Nie daj się cyberzbójom! V3.0 _(Securitum 2023)_ - [Cert Local](2023/Nie_daj_sie_cyberzbojom_2023.pdf)
 - ![Security][security logo] O wpadkach OPSECOSINT  _(Securitum 2022)_ - [Cert Local](2022/O_wpadkach_OPSECOSINT.pdf)
+- ![AWS][aws logo] Ultimate AWS Certified SysOps Administrator Associate 2023  _(Udemy 2023)_ - [Cert Local](2023/Ultimate_AWS_Certified_SysOps_Administrator_Associate.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-940cc805-8e9b-46f3-8075-c24477cf3226)
 - ![Security][security logo] Wiza Antykorupcja ONZ - Orange _(Orange eLearning 2023)_ [Cert Local](2023/Wiza_antykorupcyjna.pdf)
 - ![Security][security logo] Wprowadzenie do OWASP Top Ten (edycja 2021) _(Securitum 2021)_ - [Cert Local](2021/Wprowadzenie_do_OWASP_Top_Ten_edycja_2021.pdf)
 

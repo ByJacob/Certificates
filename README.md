@@ -1,6 +1,7 @@
 # Certificates in alphabetical order
 
 - ![AWS][aws logo] [NEW] Ultimate AWS Certified Cloud Practitioner - 2021 _(Udemy 2021)_ - [Cert Local](2021/[NEW]_Ultimate_AWS_Certified_Cloud_Practitioner_-_2021.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-dfa3c18f-fd19-4beb-a5ac-04ccf32fe778/)
+- ![AI][ai logo] AI Devs 2 - _(Brave 2023)_ - [Cert Local EN](2023/AI_DEVS2_EN.pdf) - [Cert Local PL](2023/AI_DEVS2_PL.pdf) - [Cert Remote EN](https://credsverse.com/credentials/9edbfb31-27a3-4092-ae33-d7a4b68304fa) - [Cert Remote PL](https://credsverse.com/credentials/c2627019-0fb1-460b-af0a-c10e822deead)
 - ![Ansible][ansible logo] Ansible Advanced - Hands-On - DevOps _(Udemy 2020)_ - [Cert Local](2020/Ansible_Advanced_-_Hands-On_-_DevOps.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-75dc7408-e6a6-4c39-b5e7-a81dfa2448a4/)
 - ![Ansible][ansible logo] Ansible for the Absolute Beginner - Hands-On - DevOps _(Udemy 2020)_ - [Cert Local](2020/Ansible_for_the_Absolute_Beginner_-_Hands-On_-_DevOps.pdf) - [Cert Remote](https://www.udemy.com/certificate/UC-T94AGNVC/)
 - ![AWS][aws logo] AWS DISCOVERY DAY - Securing Your AWS Cloud _([Asseco Academy](https://academy.asseco.pl/) 2022)_ [Cert Local](2022/AWS_DISCOVERY_DAY_-_Securing_Your_AWS_Clouds.pdf)
@@ -37,3 +38,4 @@
 [gitlab logo]: https://img.shields.io/static/v1?label=&color=FC6D26&message=GitLab&logo=GitLab&logoColor=white&style=flat
 [gcp logo]: https://img.shields.io/static/v1?label=&color=4285F4&message=GCP&logo=Google%20Cloud&logoColor=white&style=flat
 [kotlin logo]: https://img.shields.io/static/v1?label=&color=7F52FF&message=Kotlin&logo=Kotlin&logoColor=white&style=flat
+[ai logo]: https://img.shields.io/static/v1?label=&color=412991&message=AI&logo=rootme&logoColor=white&style=flat
